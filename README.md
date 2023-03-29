@@ -9,8 +9,8 @@ This two-part challenge showcases the use of APIs within
 The first part of this challenge, WeatherPy, uses Open Weather API, where weather data is obtained from a randomly generated list of about 600 cities around the world along with each city's coordinates and then outputted to a csv file for the second part of this challenge. 
 
 Multiple graphs are created from this data to identify trends and relationship between the following:
-    - Latitude vs. Temperature \n
-    - Latitude vs. Humidity \n
+- Latitude vs. Temperature
+- - Latitude vs. Humidity
     - Latitude vs. Cloudiness
     - Latitude vs. Wind Speed
     - Northern Hemisphere: Temperature vs. Latitude
