@@ -13,7 +13,7 @@ Multiple graphs are created from this data to identify trends and relationship b
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
 - Latitude vs. Wind Speed
-- - Northern Hemisphere: Temperature vs. Latitude
+- Northern Hemisphere: Temperature vs. Latitude
 - Southern Hemisphere: Temperature vs. Latitude
 - Northern Hemisphere: Humidity vs. Latitude
 - Southern Hemisphere: Humidity vs. Latitude
